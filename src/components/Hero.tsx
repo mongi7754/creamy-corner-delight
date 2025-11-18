@@ -34,9 +34,9 @@ const Hero = () => {
 
           <div className="flex flex-col sm:flex-row gap-4">
             <Button size="lg" asChild className="text-lg shadow-glow">
-              <a href="https://wa.me/254712347926" target="_blank" rel="noopener noreferrer">
+              <Link to="/order">
                 Order Now <ArrowRight className="ml-2 w-5 h-5" />
-              </a>
+              </Link>
             </Button>
             <Button variant="outline" size="lg" asChild className="text-lg">
               <Link to="/menu">

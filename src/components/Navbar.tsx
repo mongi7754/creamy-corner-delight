@@ -47,9 +47,7 @@ const Navbar = () => {
               0712347926
             </a>
             <Button variant="default" asChild>
-              <a href="https://wa.me/254712347926" target="_blank" rel="noopener noreferrer">
-                Order Now
-              </a>
+              <Link to="/order">Order Now</Link>
             </Button>
           </div>
 
@@ -88,9 +86,7 @@ const Navbar = () => {
                 </a>
               </div>
               <Button variant="default" asChild className="w-full">
-                <a href="https://wa.me/254712347926" target="_blank" rel="noopener noreferrer">
-                  Order on WhatsApp
-                </a>
+                <Link to="/order">Order Now</Link>
               </Button>
             </div>
           </div>
