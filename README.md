@@ -1,73 +1,107 @@
-# Welcome to your Lovable project
+ Creamy Corner Café – README
+ Overview
+https://creamy-corner-cafe.vercel.app/
+Creamy Corner Café is a modern fast-food and dessert café offering high-quality ice cream, yogurt, coffee, milkshakes, and quick snacks.
+Our goal is to create a warm, fun, and affordable spot where customers can enjoy delicious treats anytime.
 
-## Project info
+ Main Products
+ Ice Cream & Ice Pops
 
-**URL**: https://lovable.dev/projects/411cd0a8-5ef8-4442-9802-f888247b0624
+Ice Pop – 10 KES
+Flavours: Mango, Orange, Strawberry, Pineapple
 
-## How can I edit this code?
+Premium Ice Cream Cups
+Flavours: Vanilla, Chocolate, Strawberry, Cookies & Cream
 
-There are several ways of editing your application.
+ Milkshakes
 
-**Use Lovable**
+Vanilla
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/411cd0a8-5ef8-4442-9802-f888247b0624) and start prompting.
+Oreo
 
-Changes made via Lovable will be committed automatically to this repo.
+Strawberry
 
-**Use your preferred IDE**
+Chocolate
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+ Yogurt
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Plain
 
-Follow these steps:
+Flavoured (Strawberry, Vanilla, Tropical)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+ Coffee
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Espresso
 
-# Step 3: Install the necessary dependencies.
-npm i
+Cappuccino
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Iced Coffee
 
-**Edit a file directly in GitHub**
+Latte
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+ Snacks (Optional to add)
 
-**Use GitHub Codespaces**
+Fries
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Samosa
 
-## What technologies are used for this project?
+Smokies
 
-This project is built with:
+Mandazi
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+ Business Mission
 
-## How can I deploy this project?
+To serve fresh, tasty, and affordable treats while creating a friendly space where customers can relax, enjoy, and connect.
 
-Simply open [Lovable](https://lovable.dev/projects/411cd0a8-5ef8-4442-9802-f888247b0624) and click on Share -> Publish.
+ Why Choose Creamy Corner Café?
 
-## Can I connect a custom domain to my Lovable project?
+Clean and modern café experience
 
-Yes, you can!
+ Affordable pricing
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+ Fast service
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+ High-quality ingredients
+
+ Unique dessert combinations
+
+ Great for families, students, and working adults
+
+ Additional Features (If part of your vision)
+
+Online orders & deliveries
+
+Loyalty program / reward points
+
+Seasonal flavours
+
+Kids fun combos
+
+Custom milkshake mixes
+
+ Business Details
+
+Name: Creamy Corner Café
+Industry: Fast food, desserts, beverages
+Target Audience: Students, families, locals, tourists
+
+ Location & Contact
+
+(Add your location here)
+Phone: (Add number)
+Email: (Optional)
+Opening Hours: (Add opening & closing time)
+
+ License & Copyright
+
+This README describes the brand identity and operations of Creamy Corner Café.
+All rights reserved.
+
+If you want, I can also create:
+
+ Full Menu
+ Business profile PDF
+ Logo design
+Website landing page
+ Social media posts
+ 
